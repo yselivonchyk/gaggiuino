@@ -143,7 +143,7 @@ No| BREW MODE   | DESCRIPTION
 
 * [Arduino Nano AT328](https://bit.ly/3eXSfXZ)  **[BASE]**
   * [Arduino Nano expansion board](https://www.aliexpress.com/item/32831772475.html?spm=a2g0o.store_pc_allProduct.8148356.21.7ed173b9bTMew3)
-* [Nextion touch screen](https://bit.ly/33dO8RV)  **[BASE]**
+* [2.4" Nextion LCD](.0.652955c90uhUWQ&algo_pvid=1fdc2046-cf41-468f-bec2-44084cfa3677&algo_exp_id=1fdc2046-cf41-468f-bec2-44084cfa3677-1&pdp_ext_f=%7B"sku)  **[BASE]**
 * [MAX6675 thermocouple](https://bit.ly/3ejTUIj)  **[BASE]**
 * [C-M4 screw K-Type thermocouple sensor](https://bit.ly/3nP1WMm)  **[BASE]**
 * [40DA SSR Relay](https://bit.ly/33g1Pjr)  **[BASE]**
@@ -151,7 +151,7 @@ No| BREW MODE   | DESCRIPTION
 * [Hall Current Sensor Module ACS712 - 20A](https://bit.ly/38MCiRv) **[EXT]**
 * [Thermo-resistant cables AWG 15 and 18 ( 1m black/red ) and AWG 30 ( 5m black/red/yellow )](https://bit.ly/3tjSQbI) **[BASE]**
 * [Spade connectors M/F 6.3mm](https://bit.ly/2Sjrkhu)
-* [5v AC Adaptor](https://bit.ly/2WPHGkg) or [12v Power Supply](https://www.aliexpress.com/item/33012749903.html?spm=a2g0s.9042311.0.0.370a4c4dSNhQoq)**[BASE]**
+* [5v AC Adaptor](https://bit.ly/3jWSrKa) or [12v Power Supply](https://www.aliexpress.com/item/33012749903.html?spm=a2g0s.9042311.0.0.370a4c4dSNhQoq)**[BASE]**
      >*I used an old mobile charger I had lying around which conveniently had a USB port for plugging the cable that came with the  board, exactly like in the link above.
      >It's recommended to power the arduino board using the  12V 1000mA power supply.*
 
