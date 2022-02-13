@@ -108,8 +108,7 @@
 * Power Supply (multiple options provided choose what fits your needs):
   * [5v AC Adaptor](https://bit.ly/3jWSrKa) 
   * [12v Power Supply](https://www.aliexpress.com/item/33012749903.html) and [12v to 5v stepdown](https://www.aliexpress.com/item/4001184669298.html) (these two should only be used together)
- >*I used an old mobile charger I had lying around which conveniently had a USB port for plugging the cable that came with the  board, exactly like in the link above.*
- >*It's recommended though to power the arduino board using  12V 1000mA power supply and a stepdown convertor of your choice from the provided list.*
+ >*It's recommended to power the arduino board using  12V 1000mA power supply and the stepdown convertor.*
 
 #### **EXTENDED FUNCTIONALITY**
 ***
