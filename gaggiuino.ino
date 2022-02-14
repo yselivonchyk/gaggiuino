@@ -305,11 +305,7 @@ void kThermoRead() { // Reading the thermocouple temperature
   // Reading the temperature every 350ms between the loops
   if ((millis() - thermoTimer) > GET_KTYPE_READ_EVERY){
     kProbeReadValue = thermocouple.readCelsius();  // Making sure we're getting a value
-<<<<<<< HEAD
-    while (kProbeReadValue <= 0 || kProbeReadValue == NAN || kProbeReadValue > 170.0) {
-=======
     while (kProbeReadValue <= 0.0 || kProbeReadValue == NAN || kProbeReadValue > 160.0) {
->>>>>>> dev
       PORTB &= ~_BV(PB0);  // relayPin -> LOW
       if ((millis() - thermoTimer) > GET_KTYPE_READ_EVERY){
         kProbeReadValue = thermocouple.readCelsius();  // Making sure we're getting a value
