@@ -99,6 +99,7 @@
 * [Arduino Nano AT328](https://bit.ly/3eXSfXZ)
   * [Arduino Nano expansion board](https://www.aliexpress.com/item/32831772475.html?spm=a2g0o.store_pc_allProduct.8148356.21.7ed173b9bTMew3)
 * [2.4" Nextion LCD](https://bit.ly/3CAUzPj)
+  * Would need a TTL interface or a 2 to [32Gb microSD](https://www.aliexpress.com/item/1005003217336255.html) to upload project to LCD   
 * [MAX6675 thermocouple](https://bit.ly/3ejTUIj) 
 * [C-M4 screw K-Type thermocouple sensor](https://bit.ly/3nP1WMm)
 * [40DA SSR Relay](https://bit.ly/33g1Pjr)
